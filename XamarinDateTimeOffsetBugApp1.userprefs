@@ -1,0 +1,31 @@
+﻿<Properties StartupItem="XamarinDateTimeOffsetBugApp1/XamarinDateTimeOffsetBugApp1.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.LGH8155ec52ad3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinDateTimeOffsetBugApp1/CustomLinker.xml">
+    <Files>
+      <File FileName="XamarinDateTimeOffsetBugApp1/CustomLinker.xml" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinDateTimeOffsetBugApp1" expanded="True">
+            <Node name="XamarinDateTimeOffsetBugApp1" expanded="True">
+              <Node name="CustomLinker.xml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../Projects/grey/GreyApp/CustomCachedImage.cs" line="27" offsetX="876" offsetY="165" expression="LoadingPlaceholder" liveUpdate="False" />
+    <Watch file="../../Projects/grey/GreyApp.Droid/Renderers/CustomButtonRenderer.cs" line="40" offsetX="595" offsetY="375" expression="e.PropertyName" liveUpdate="False" />
+    <Watch file="../../Projects/grey/GreyApp/Views/CustomViews/CustomWebView.cs" line="51" offsetX="1527" offsetY="293" expression="Renderer.ContentHeight" liveUpdate="False" />
+    <Watch file="../../Projects/grey/GreyApp.iOS/Renderers/CustomWebViewRenderer.cs" line="46" offsetX="790" offsetY="450" expression="ScrollView.ContentSize.Height" liveUpdate="False" />
+    <Watch file="../../Projects/grey/GreyApp.iOS/Renderers/VideoPlayerRenderer.cs" line="107" offsetX="624" offsetY="1365" expression="e.PropertyName" liveUpdate="False" />
+    <Watch file="../../Projects/grey/GreyApp/PageModels/BasePageModel.cs" line="101" offsetX="486" offsetY="1290" expression="BasePageModel.Semaphore.CurrentCount" liveUpdate="False" />
+    <Watch file="../../Projects/grey/GreyApp/Views/CustomViews/CustomWebView.cs" line="93" offsetX="660" offsetY="1155" expression="e.ContentHeight" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
